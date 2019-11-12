@@ -1,0 +1,4 @@
+models/classification/weights.best.Xception_best.hdf5
+models/detection/segmentation.pth
+.ipynb_checkpoints
+.ipynb_checkpoints/
